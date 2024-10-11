@@ -1,0 +1,6 @@
+PyMuPDF
+pymongo
+langchain-community
+langchain-openai
+streamlit
+python-dotenv
