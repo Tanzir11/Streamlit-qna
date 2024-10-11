@@ -14,8 +14,8 @@ This Streamlit app provides two endpoints:
 
 1. **Clone the repository:**
    ```bash
-   git clone <https://github.com/Tanzir11/Streamlit-qna.git>
-   cd <Streamlit-qna>
+   git clone https://github.com/Tanzir11/Streamlit-qna.git
+   cd Streamlit-qna
    ```
 
 2. **Install dependencies:**
@@ -27,12 +27,12 @@ This Streamlit app provides two endpoints:
 3. **Set up Environment Variables:**
    Create a `.env` file in the root directory with the following information:
    ```bash
-   AZURE_OPENAI_API_KEY=<your_azure_openai_api_key>
-   AZURE_OPENAI_API_ENDPOINT=<your_azure_openai_endpoint>
-   MONGODB_URI=<your_mongodb_uri>
-   openai_api_version=<"openai-api-version">
-   NAMESPACE=<"NameSpace">
-   INDEX_NAME=<"Index_name">
+   AZURE_OPENAI_API_KEY=your_azure_openai_api_key
+   AZURE_OPENAI_API_ENDPOINT=your_azure_openai_endpoint
+   MONGODB_URI=your_mongodb_uri
+   openai_api_version="openai-api-version"
+   NAMESPACE="NameSpace"
+   INDEX_NAME="Index_name"
    ```
 
 ## Running the App
